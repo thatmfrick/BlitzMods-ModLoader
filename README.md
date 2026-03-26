@@ -57,10 +57,14 @@ https://github.com/user-attachments/assets/f8d77724-1912-4de9-a5fd-a9340729179d
 
 Just past this in the terminal.
 
+1. Download the latest [release](https://github.com/thatmfrick/BlitzModsLoader/releases/download/v1.0.0/BlitzModsInstaller.run)
+2. Run this in the terminal: 
 ```bash
-git clone https://github.com/RickOnGit/RickWotbMods "$HOME/RickWotbMods"
-bash "$HOME/RickWotbMods/bin/setup.sh"
+chmod +x $HOME/Downlads/BlitzModsInstaller.run
+$HOME/Downloads/./BlitzModsInstaller.run
 ```
+> [!NOTE]
+> `sudo` required for installing packages and the tool in the system.
 
 <https://github.com/user-attachments/assets/967c282c-495d-4527-99f3-cd9d755d5bcc>
 
