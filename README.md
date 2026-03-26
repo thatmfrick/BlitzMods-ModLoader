@@ -1,7 +1,7 @@
 <h3 align="center">
-<img width="1920" height="1080" alt="ModLoader" src="https://github.com/user-attachments/assets/a6759353-b69b-45ef-8d03-ab93312f61cc" />
 
-  
+  <img width="1920" height="1080" alt="ModLoader" src="https://github.com/user-attachments/assets/dc57590f-0c8e-490a-bc40-a806afd10e76" />
+
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/thatmfrick)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
