@@ -12,12 +12,8 @@
 
 <p align="center">
   <strong>A powerful CLI for installing, previewing, backing up, and restoring mods for World of Tanks Blitz — with zero hassle.</strong>
+  <img width="711" height="549" alt="Screenshot_20260411_234142" src="https://github.com/user-attachments/assets/050d8ba7-d2c9-47e7-a3af-2c64a94fb946" />
 </p>
-
-
-
-https://github.com/user-attachments/assets/380814ba-6951-4fa1-8cde-93f02ff6ae20
-
 
 
 ---
