@@ -16,7 +16,6 @@
   <img width="711" height="549" alt="Screenshot_20260411_234142" src="https://github.com/user-attachments/assets/050d8ba7-d2c9-47e7-a3af-2c64a94fb946" />
 </p>
 
-
 ---
 
 ## ✨ Features
@@ -34,7 +33,7 @@
 
 ### 🍎 macOS
 
-1. Install [Homebrew]([https://brew.sh/](https://github.com/Homebrew/brew/releases)) latest release, scroll down and download the `Homebrew.pkg` file.
+1. Install [Homebrew](<[https://brew.sh/](https://github.com/Homebrew/brew/releases)>) latest release, scroll down and download the `Homebrew.pkg` file.
 2. From the Downloads folder open `Homebrew.pkg` and follow the installation steps.
 
 ### 🤖 Android
@@ -46,7 +45,7 @@ The CLI offers the possibility to install modifications on Android (it requires 
    - **Important**: disable **any** revoke USB debugging/adb authorization timeout settings.
 3. Connect your Android device to the PC, open the terminal, and run `adb devices`.
    - A pop-up will appear on your Android device — press **Trust this device** (your device is now set up).
-4. Run `rickmodder` in the terminal and switch the platform to Android.
+4. Run `blitmodsloader` in the terminal and switch the platform to Android.
 
 https://github.com/user-attachments/assets/f8d77724-1912-4de9-a5fd-a9340729179d
 
@@ -55,23 +54,24 @@ https://github.com/user-attachments/assets/f8d77724-1912-4de9-a5fd-a9340729179d
 Just past this in the terminal.
 
 1. Download the latest [release](https://github.com/thatmfrick/BlitzModsLoader/releases/download/v1.0.0/BlitzModsInstaller.run)
-2. Run this in the terminal: 
+2. Run this in the terminal:
+
 ```bash
-chmod +x $HOME/Downlads/BlitzModsInstaller.run
+chmod +x $HOME/Downloads/BlitzModsInstaller.run
 $HOME/Downloads/./BlitzModsInstaller.run
 ```
+
 > [!NOTE]
 > `sudo` required for installing packages and the tool in the system.
 
 <https://github.com/user-attachments/assets/967c282c-495d-4527-99f3-cd9d755d5bcc>
-
 
 ## 🚀 Usage
 
 After installation, launch the CLI with:
 
 ```bash
-rickmodder
+blitzmodsloader
 ```
 
 Use the interactive menu to browse, preview, install, and restore mods.
