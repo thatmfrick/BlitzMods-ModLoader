@@ -1,3 +1,16 @@
+# 04/24/26 Update
+
+## Added modifications by Rick
+
+- Wot Styled Team Panel
+
+## Added modifications by GanzirDefender
+
+- St.Emil -> Panzerjäger-Abteilung (mot) 521
+- 60 TP -> Heart of the Swarm
+- Leopard 1 -> Leopard 2A7HU
+- FV 4005 -> 2S19M1
+
 # 04/09/26 Update
 
 ## Added modifications by gamelsz
