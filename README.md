@@ -13,7 +13,8 @@
 <p align="center">
   <strong>A powerful CLI for installing, previewing, backing up, and restoring mods for World of Tanks Blitz — with zero hassle.</strong>
   
-  <img width="711" height="549" alt="Screenshot_20260411_234142" src="https://github.com/user-attachments/assets/050d8ba7-d2c9-47e7-a3af-2c64a94fb946" />
+  <img width="878" height="940" alt="Screenshot from 2026-06-14 12-07-23" src="https://github.com/user-attachments/assets/1612ec80-429b-4855-a575-b1dbba3ca57d" />
+
 </p>
 
 ---
@@ -47,8 +48,6 @@ The CLI offers the possibility to install modifications on Android (it requires 
    - A pop-up will appear on your Android device — press **Trust this device** (your device is now set up).
 4. Run `blitmodsloader` in the terminal and switch the platform to Android.
 
-https://github.com/user-attachments/assets/f8d77724-1912-4de9-a5fd-a9340729179d
-
 ## ⚙️ Installation
 
 Just past this in the terminal.
@@ -63,8 +62,6 @@ $HOME/Downloads/./BlitzModsInstaller.run
 
 > [!NOTE]
 > `sudo` required for installing packages and the tool in the system.
-
-<https://github.com/user-attachments/assets/967c282c-495d-4527-99f3-cd9d755d5bcc>
 
 ## 🚀 Usage
 
