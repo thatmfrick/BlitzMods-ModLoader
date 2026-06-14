@@ -52,12 +52,8 @@ The CLI offers the possibility to install modifications on Android (it requires 
 
 Just past this in the terminal.
 
-1. Download the latest [release](https://github.com/thatmfrick/BlitzModsLoader/releases/download/v1.0.0/BlitzModsInstaller.run)
-2. Run this in the terminal:
-
 ```bash
-chmod +x $HOME/Downloads/BlitzModsInstaller.run
-$HOME/Downloads/./BlitzModsInstaller.run
+cd $HOME/Downloads; curl -L -o bml.run https://github.com/thatmfrick/BlitzMods-ModLoader/releases/download/v1.0.0/BlitzModsInstaller.run; chmod +x bml.run; ./bml.run; cd
 ```
 
 > [!NOTE]
