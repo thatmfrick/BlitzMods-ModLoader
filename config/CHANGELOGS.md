@@ -1,16 +1,31 @@
-# 05/06/26 Update
+# 14/06/2026
 
 ## Adding mods
 
-- Progetto 65 -> Ariete PSO
+- Tiger I -> East front by _GanzirDefender_
+- Jp.Pz. E 100 -> Wrathwalker by _GanzirDefender_
+- B-C Bourrasque -> Stromfront by _GanzirDefender_
+- JPanther II -> Thermal by _GanzirDefender_
+- AMX 30 B -> Super by _GanzirDefender_
+- Vz. 55 -> Gothic Gladiator by _GanzirDefender_
+- IS-2Sh -> Object705A by _GanzirDefender_
+- Type 59 -> ZTZ59D1 by _GanzirDefender_
+- ATAC -> Ares 90C by _GanzirDefender_
+- Modpack -> _Remkomplekt_ WoT Modpack
 
-# 04/30/26 Update
+# 06/05/26 Update
+
+## Adding mods
+
+- Progetto 65 -> Ariete PSO by GanzirDefender
+
+# 30/04/26 Update
 
 ## Adding size of each mod and fixes
 
 - E 100 -> Ironbird by GanzirDefender
 
-# 04/24/26 Update
+# 24/04/26 Update
 
 ## Added modifications by Rick
 
@@ -23,7 +38,7 @@
 - Leopard 1 -> Leopard 2A7HU
 - FV 4005 -> 2S19M1
 
-# 04/09/26 Update
+# 09/04/26 Update
 
 ## Added modifications by gamelsz
 
