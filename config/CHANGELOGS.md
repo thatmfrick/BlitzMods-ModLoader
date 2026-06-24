@@ -1,4 +1,9 @@
-# 14/06/2026
+## Adding mods
+
+# 24/06/2026
+
+- Chimera -> The Exiled by _GanzirDefender_
+- VK 72.01 K -> T-72b3 by _GanzirDefender_
 
 ## Adding mods
 
