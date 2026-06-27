@@ -1,6 +1,12 @@
+# 27/06/2026
+
 ## Adding mods
 
+- IS-6 & IS-6 Fearless -> Project Plasma by _GanzirDefender_
+
 # 24/06/2026
+
+## Adding mods
 
 - Chimera -> The Exiled by _GanzirDefender_
 - VK 72.01 K -> T-72b3 by _GanzirDefender_
