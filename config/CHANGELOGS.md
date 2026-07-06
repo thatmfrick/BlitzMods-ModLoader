@@ -1,3 +1,11 @@
+# 06/07/2026
+
+## Adding mods
+
+- E 100 -> Ausf. B by _GanzirDefender_
+- 56TP -> Bisonas by _GanzirDefender_
+- FV215b -> Uranus Caelum by _GanzirDefender_
+
 # 27/06/2026
 
 ## Adding mods
