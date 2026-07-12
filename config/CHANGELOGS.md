@@ -1,3 +1,10 @@
+# 12/07/2026
+
+## Adding Mods
+
+- E75 -> Ashes by _GanzirDefender_
+- IS-4 -> The Foreborder by _GanzirDefender_
+
 # 06/07/2026
 
 ## Adding mods
